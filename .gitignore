@@ -1,0 +1,2 @@
+buildAndReleaseTask/node_modules
+**/*.vsix
