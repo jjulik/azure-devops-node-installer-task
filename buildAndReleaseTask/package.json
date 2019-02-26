@@ -1,0 +1,26 @@
+{
+  "name": "node-installer-task",
+  "version": "1.0.0",
+  "description": "TFS Build Agent task for installing node.js and npm.",
+  "main": "nodetool.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Azure",
+    "Pipelines",
+    "Tasks",
+    "Node"
+  ],
+  "author": "Joe Julik",
+  "license": "MIT",
+  "dependencies": {
+    "azure-pipelines-task-lib": "^2.7.7",
+    "azure-pipelines-tool-lib": "^0.11.0",
+    "typed-rest-client": "^1.1.2"
+  },
+  "devDependencies": {
+    "@types/node": "^11.9.5",
+    "@types/q": "^1.5.1"
+  }
+}
