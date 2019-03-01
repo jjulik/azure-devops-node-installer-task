@@ -1,2 +1,4 @@
 buildAndReleaseTask/node_modules
+buildAndReleaseTask/7zr.exe
+buildAndReleaseTask/7zr.zip
 **/*.vsix
