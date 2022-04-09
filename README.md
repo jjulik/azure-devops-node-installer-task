@@ -1,3 +1,6 @@
+# Deprecated
+This repository is no longer maintained. The issue it fixed has now been resolved in NodeTool@0. Please use NodeTool@0 instead.
+
 # azure-devops-node-installer-task
 Node installer task for Azure Devops. This is a build agent task that installs node.js and npm. It should work with Azure Devops and TFS on-prem.
 
